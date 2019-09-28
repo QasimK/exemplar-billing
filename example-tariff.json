@@ -1,0 +1,10 @@
+{
+    "electricity": {
+        "standing_charge": "23.23",
+        "unit_charge": "12.123"
+    },
+    "gas": {
+        "standing_charge": "21.21",
+        "unit_charge": "4.915"
+    }
+}

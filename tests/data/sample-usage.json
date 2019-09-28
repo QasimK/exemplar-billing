@@ -1,0 +1,23 @@
+{
+    "member-1":{
+        "account-1": {
+            "electricity": [
+                {
+                    "cumulative": 12000,
+                    "timestamp": "2019-01-01T00:00:00.000",
+                    "units": "kwh"
+                },
+                {
+                    "cumulative": 13500,
+                    "timestamp": "2019-02-01T00:00:00.000",
+                    "units": "kwh"
+                },
+                {
+                    "cumulative": 16000,
+                    "timestamp": "2019-03-01T00:00:00.000",
+                    "units": "kwh"
+                }
+            ]
+        }
+    }
+}
